@@ -1,0 +1,7 @@
+gitkraken*.tar*
+v*.tar.gz*
+.build*log
+*rpm
+gitkraken/
+x86_64
+
